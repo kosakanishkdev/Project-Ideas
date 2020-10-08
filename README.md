@@ -9,7 +9,7 @@ Here you can find some beginner-friendly project ideas and take your skills to t
 ---------
 
 ## Sample Homepage
-A sample homepage of Progate. Please feel free to fork this repository and try making changes or implement new features using HTML, CSS and JavaScript. [(details)](https://github.com/Progate-Community/homepage-sample)
+A sample homepage of Progate. Try making changes or implement new features using HTML, CSS and JavaScript. [(details)](https://github.com/Progate-Community/homepage-sample)
 
 ## Word Count App
 Write a script that displays the number of words in a block of text in real time as the user types. [(details)](https://gist.github.com/cferdinandi/2d47e9e83f33f526eab50b5474a9787c)
