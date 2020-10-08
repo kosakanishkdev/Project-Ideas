@@ -14,6 +14,9 @@ A sample homepage of Progate. Please feel free to fork this repository and try m
 ## Word Count App
 Write a script that displays the number of words in a block of text in real time as the user types. [(details)](https://gist.github.com/cferdinandi/2d47e9e83f33f526eab50b5474a9787c)
 
+## JavaScript To-Do List
+Use your JavaScript chops to whip up a to-do list like this JavaScript project sample built by John Fichera. [(details)](https://codepen.io/JohnPaulFich/pen/MXmzzM)
+
 ## Randomize
 Write an app that randomly picks an option for a list of choices. Users should be able to add and delete items from the list. [(details)](https://gist.github.com/cferdinandi/6bba5ba21564e090d158178caf8a2104)
 
