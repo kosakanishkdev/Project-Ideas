@@ -1,4 +1,27 @@
-Once you've forked this repository, please add your project suggestions here in this format -
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Project Template</title>
 
-## Replace This With Project Title
-Please replace this with a brief description of project. [(details)](Replace this with the link of project)
+	<style type="text/css">
+		body {
+			margin-left: auto;
+			margin-right: auto;
+			max-width: 40em;
+			width: 88%;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>DESIGN AND PATTERN MAKER</h1>
+
+	<div id="app"></div>
+
+
+	<script>
+		// Project code...
+	</script>
+
+</body>
+</html>
